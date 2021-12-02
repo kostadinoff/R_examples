@@ -1,2 +1,4 @@
-# R_examples
-Repo full of tutorials and examples
+# R data science examples
+
+Personal repo full of tutorials and examples. Data science with R. 
+Kostadin Kostadinov
